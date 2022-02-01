@@ -20,5 +20,7 @@ public class CardDealer
         
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("Diamonds");
+        
+        System.out.println("The card suit is " + bonita.getSuit() + " and the value is " + bonita.getValue());
     }
 }
