@@ -16,6 +16,8 @@ public class CardDealer
     public static void main(String[] args)  
     {
         Card bonita = new Card("Spade",4);
+        bonita.setSuit("spade");
+        
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }
