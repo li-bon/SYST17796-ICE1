@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ca.sheridancollege.week2.softwarefundamentals;
-
+//cloned by Bonita on Feb 1 2022
 /**
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ca.sheridancollege.week2.softwarefundamentals;
-
+//cloned by Bonita on Feb 1 2022
 /**
  * The class where we create Cards
  * @author dancye, 2019
