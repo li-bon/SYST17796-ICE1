@@ -18,6 +18,9 @@ public class CardDealer
         Card bonita = new Card("Spds", 2);
         bonita.setSuit("Spades");
         
+        Card bonitaCard = new Card("Spds", 3);
+        bonita.setSuit("Spades");
+        
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("Diamonds");
         
